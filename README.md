@@ -6,6 +6,8 @@
 
 LevelDB for Flutter
 
+## ⚠ WORK-IN-PROGRESS ⚠
+
 ## Installation
 
 pubspec.yaml:
@@ -15,6 +17,14 @@ dependencies:
   level_db:
     git: git@github.com:lesnitsky/level_db.git
 ```
+
+## Supported platforms
+
+- [x] iOS
+- [ ] Android
+- [ ] Linux
+- [ ] Web
+- [ ] macOS
 
 ## Example
 
